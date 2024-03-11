@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/HackerNewsAPI/.vs
+/HackerNewsAPI/HackerNewsAPI/bin/Debug/net6.0
+/HackerNewsAPI/HackerNewsAPI/obj
+/HackerNewsAPI/HackerNewsAPI.Test/bin
+/HackerNewsAPI/HackerNewsAPI.Test/obj
